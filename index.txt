@@ -1,0 +1,17 @@
+Importance of Automated Testing
+
+- Guarantees / Confidence in our solution and past features
+
+Structure Code so that it can effectively tested
+- Single responsiblity units
+
+
+Test-Driven Development (TDD)
+- Write tests first 
+    - Convert requirements into tests
+- Write minimum code to pass tests
+- Refactor -> more readable
+
+Continuous Integration (CI) pipeline
+- Tests will run when a PR is created
+- You can't merge a PR until the tests pass
